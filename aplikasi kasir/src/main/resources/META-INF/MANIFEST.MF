@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: menu_registrasi.jar jcalendar-1.4.jar menu_transaksi.jar mys
+ ql-connector-j-8.0.33.jar protobuf-java-3.21.9.jar
+
