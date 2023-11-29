@@ -24,9 +24,11 @@ Tabel Laporan memiliki:
 -	Isi_laporan
 -	Tanggal
 -	Lokasi
+
 Tabel Konfirmasi memiliki:
 -	Id_laporan
 -	Konfirmasi
+
 Tabel user memiliki:
 -	Id_user
 -	Username
